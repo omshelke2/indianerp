@@ -7,7 +7,7 @@ const Hero = () => {
     <>
     <section className="mb-3">
         <div className="mainHero mt-5 pt-2 pb-2 flex items-center justify-center  ">
-            <h1 className="text-2xl text-center text-white font-bold">Retail (POS) | Restaurant | Distribution | Manufacturing | ERP Software | Mobile App</h1>
+            <h1 className="text-2xl text-center text-white font-bold">Retail(POS) | Restaurant | Distribution | Manufacturing | ERP Software | Mobile App</h1>
         </div>
     </section>
     <section className="mb-10 w-full h-[80vh] md:h-[70vh] lg:h-[30vh] flex flex-col md:flex-row">
