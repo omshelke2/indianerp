@@ -28,7 +28,7 @@ const SwiperComp = () => {
               imgLink={"/Swiper/supermarket.svg"}
               title={"SuperMarket Management Software"}
               desc={
-                " Lorem ipsum dolor sit amet consectetur adipisicing elit. Reiciendis esse cumque labore rerum. Sequi eaque neque, nemo voluptatem in dignissimos obcaecati magnam esse non aspernatur laborum et"
+                "Supermarket billing software with fast barcode POS, automated discount schemes, cash drawer management, and real-time inventory tracking for high-volume retail counters."
               }
             />
           </SwiperSlide>
@@ -37,7 +37,7 @@ const SwiperComp = () => {
               imgLink={"/Swiper/pharma.svg"}
               title={"Comprehensive Solution For Pharmacist"}
               desc={
-                " Lorem ipsum dolor sit amet consectetur adipisicing elit. Reiciendis esse cumque labore rerum. Sequi eaque neque, nemo voluptatem in dignissimos obcaecati magnam esse non aspernatur laborum et"
+                "Complete pharmacy software featuring salt composition & substitute lookup, batch and expiry management, digital prescription handling, and effortless GST billing."
               }
             />
           </SwiperSlide>
@@ -46,7 +46,7 @@ const SwiperComp = () => {
               imgLink={"/Swiper/invoice.svg"}
               title={"100% Free Invoicing Software For Your Business"}
               desc={
-                "For businesses with Rs. 5 Crore+ turnover* e-invoicing is going to be mandatory w.e.f. 1 August 2023. Simplify your e-invoicing with India's best e-invoicing software."
+                "Generate 100% accurate, error-free GST e-invoices directly from the software with zero portal downtime, automated e-way billing, and real-time reconciliation."
               }
             />
           </SwiperSlide>
@@ -55,7 +55,7 @@ const SwiperComp = () => {
               imgLink={"/Swiper/sales.svg"}
               title={"Easy & Simple Way To Get Your Sales Data"}
               desc={
-                "Effortlessly analyze your Data via Multiple Reports by directly connecting your server to the distributor's system to end the dependency on third parties"
+                "Effortlessly analyze your business data via multi-dimensional reports by directly connecting your server to the distributor's system to eliminate third-party dependency."
               }
             />
           </SwiperSlide>
@@ -64,7 +64,7 @@ const SwiperComp = () => {
               imgLink={"/Swiper/advertise.svg"}
               title={"Advertise To Indias Top Pharma & FMCG Retailers"}
               desc={
-                "Advertise to India's top 2.5 Lakh+ Retailers & 1 Lakh+ Distributors. Get unlimited reach to 12000+ Pincodes with high-end placements on Marg ERP software home screen.Advertise to India's top 2.5 Lakh+ Retailers & 1 Lakh+ Distributors. Get unlimited reach to 12000+ Pincodes with high-end placements on Marg ERP software home screen."
+                "Advertise to India's top 2.5 Lakh+ Retailers & 1 Lakh+ Distributors. Get unlimited reach to 12,000+ Pincodes with high-visibility placements on the ERP software home screen."
               }
             />
           </SwiperSlide>

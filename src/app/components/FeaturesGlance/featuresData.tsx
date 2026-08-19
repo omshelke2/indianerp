@@ -80,7 +80,7 @@ export const PharmacyData: FeatureData[] = [
   {
     icon: <Icon icon="noto:delivery-truck" />,
     title: "Delivery & Shipping",
-    description:" ",
+    description:"Streamline home deliveries and dispatch operations with live order status tracking, route planning, and automated customer SMS alerts.",
   },
   {
     icon: <Icon icon="mdi:recycle" style={{ color: "#bd33a4 " }} />,
@@ -169,7 +169,7 @@ export const SuperMarketFeaturesData: FeatureData[] = [
     ),
 
     title: "Digital Payment & Collection",
-    description:" ",
+    description:"Accept payments via UPI, cards, and dynamic QR codes at the billing counter with automated invoice reconciliation.",
 
   },
   {
@@ -320,7 +320,7 @@ export const POSFeaturesData: FeatureData[] = [
   {
     icon: <Icon icon="lets-icons:order" style={{ color: "#ff8c00" }} />,
     title: "Order Management",
-    description:" ",
+    description:"Efficiently handle advance customer bookings, counter orders, and supplier purchase orders with full fulfillment tracking.",
 
   },
   {
@@ -373,7 +373,7 @@ export const JewelleryFeaturesData: FeatureData[] = [
   {
     icon: <Icon icon="emojione-v1:shopping-bags" />,
     title: "Re-Order Management",
-    description:" ",
+    description:"Maintain optimal bullion and ornament inventory levels by setting intelligent reorder points based on fast-moving jewellery trends.",
 
   },
   {
@@ -1784,19 +1784,19 @@ export const ManagementSoftwareData: FeatureData[] = [
   {
     icon: <Icon icon="carbon:dashboard" style={{ color: "#ee2f2f" }} />,
     title: "Dashboard",
-    description:" "
+    description:"Gain complete visibility into business performance with real-time analytics, sales metrics, and customizable operational widgets."
   },
   {
     icon: <Icon icon="mdi:report-box-multiple" style={{ color: "#7cfc00" }} />,
     title: "Reporting & Analytics",
-    description:" "
+    description:"Generate deep financial, sales, inventory, and audit reports to identify trends and make data-driven decisions."
 
 
   },
   {
     icon: <Icon icon="game-icons:cash" style={{ color: "#fcc200" }} />,
     title: "Cash Drawer",
-    description:" "
+    description:"Manage and audit cash flow across shifts with multi-user permissions, cash reconciliations, and secure transaction logs."
 
   },
   {
@@ -1807,7 +1807,7 @@ export const ManagementSoftwareData: FeatureData[] = [
       />
     ),
     title: "Collaboration Tools",
-    description:" "
+    description:"Empower cross-departmental coordination with shared task management, integrated messaging, and centralized role delegation."
 
   },
   {
@@ -1815,13 +1815,13 @@ export const ManagementSoftwareData: FeatureData[] = [
       <Icon icon="carbon:workflow-automation" style={{ color: "#ff8c69" }} />
     ),
     title: "Workflow Automation",
-    description:" "
+    description:"Automate routine business processes like invoice approvals, purchase orders, customer alerts, and stock replenishments."
 
   },
   {
     icon: <Icon icon="noto-v1:mobile-phone" />,
     title: "Security & Access Control",
-    description:" "
+    description:"Protect sensitive business data with role-based user access permissions, encrypted audit trails, and multi-factor authentication."
 
   },
   {
@@ -1829,7 +1829,7 @@ export const ManagementSoftwareData: FeatureData[] = [
       <Icon icon="clarity:employee-group-solid" style={{ color: "#7cfc00" }} />
     ),
     title: "Integration",
-    description:" "
+    description:"Easily integrate with payment gateways, eCommerce platforms, third-party logistics, and accounting tools via robust APIs."
 
   },
   {
@@ -1840,7 +1840,7 @@ export const ManagementSoftwareData: FeatureData[] = [
       />
     ),
     title: "Mobile Access",
-    description:" "
+    description:"Manage operations on the go with real-time mobile app access to sales, reports, stock levels, and order approvals."
 
   },
   {
@@ -1851,7 +1851,7 @@ export const ManagementSoftwareData: FeatureData[] = [
       />
     ),
     title: "Customization",
-    description:" "
+    description:"Tailor the software to your specific business requirements with customizable invoice formats, custom fields, and module settings."
 
   },
 ];
@@ -1916,38 +1916,38 @@ export const InventoryManagementData: FeatureData[] = [
       />
     ),
     title: "Inventory Database",
-    description:" "
+    description:"Centralized product repository to track SKU codes, categories, pricing tiers, and batch details across all branches."
   },
   {
     icon: (
       <Icon icon="fluent-mdl2:product-catalog" style={{ color: "#bf00ff " }} />
     ),
     title: "Product details",
-    description:" "
+    description:"Maintain comprehensive item specifications including barcode, unit of measurement, tax rate, manufacturer, and pricing."
 
   },
   {
     icon: <Icon icon="noto:package" />,
     title: "Purchase history",
-    description:" "
+    description:"Review complete purchase records, supplier pricing history, and vendor performance to negotiate better procurement terms."
 
   },
   {
     icon: <Icon icon="logos:google-maps" />,
     title: "Location tracking",
-    description:" "
+    description:"Track inventory movement and stock allocation across multiple warehouses, retail racks, and storage bins in real time."
 
   },
   {
     icon: <Icon icon="flat-color-icons:shop" />,
     title: "Vendor information",
-    description:" "
+    description:"Manage vendor contacts, payment terms, delivery schedules, and credit histories in an integrated vendor database."
 
   },
   {
     icon: <Icon icon="icon-park:time" />,
     title: "Real-time Stock Updates",
-    description:" "
+    description:"Get instant inventory balance updates upon every sale, return, transfer, or purchase entry with zero latency."
 
   },
   {
@@ -1955,7 +1955,7 @@ export const InventoryManagementData: FeatureData[] = [
       <Icon icon="grommet-icons:document-time" style={{ color: "#7cfc00" }} />
     ),
     title: "Expiry dates",
-    description:" "
+    description:"Track batch numbers and manufacturing/expiry dates with early warning alerts to prevent stock write-offs and losses."
 
   },
   {
@@ -1966,7 +1966,7 @@ export const InventoryManagementData: FeatureData[] = [
       />
     ),
     title: "Sales orders",
-    description:" "
+    description:"Process incoming sales orders efficiently, track order fulfillment stages, and avoid stockouts with automated reservations."
 
   },
   {
@@ -1977,7 +1977,7 @@ export const InventoryManagementData: FeatureData[] = [
       />
     ),
     title: "Stock Alerts",
-    description:" "
+    description:"Receive automatic notifications when inventory levels reach minimum safety thresholds or reorder trigger points."
 
   },
 ];
@@ -1990,7 +1990,7 @@ export const GSTData: FeatureData[] = [
       <Icon icon="fontisto:shopping-barcode" style={{ color: "#ff8c00 " }} />
     ),
     title: "Barcode & Fast Billing",
-    description:": Streamline billing with fast and accurate barcode scanning for efficient transactions."
+    description:"Streamline billing with fast and accurate barcode scanning for efficient transactions."
 
 
   },
