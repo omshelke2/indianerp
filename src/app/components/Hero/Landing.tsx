@@ -17,7 +17,7 @@ const Landing = () => {
 
       <div className="flex flex-col lg:flex-row md:flex-col items-center justify-between gap-10">
         {/* Text Area */}
-        <div className="flex items-start gap-y-5 max-md:items-center sm:text justify-center flex-col     min-md:w-1/2 lg:w-[50%]  max-md:text-center">
+        <div className="flex items-start gap-y-5 max-md:items-center justify-center flex-col md:w-1/2 lg:w-1/2 max-md:text-center">
           <h1 className="text-4xl font-semibold text-neutral-700 uppercase max-sm:text-4xl">
             Indian ERP Softwares
           </h1>

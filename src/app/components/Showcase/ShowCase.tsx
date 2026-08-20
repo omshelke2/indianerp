@@ -12,7 +12,7 @@ const ShowCase = () => {
         <div className="text-center">Through IT</div>
       </div>
       <div className="border rounded-md  bg-gray-200 bg-opacity-10">
-        <div className="grid grid-cols-5 mx-lg:grid-cols-4 max-md:grid-cols-3 max-sm:grid-cols-2 md: py-10">
+        <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-5 py-10">
           <div>
             <div className="flex items-center justify-center ">
               <MdOutlineSupportAgent className="text-7xl rounded-full  bg-gray-100 p-3" />
